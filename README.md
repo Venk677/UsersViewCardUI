@@ -24,4 +24,6 @@ Token is generated, copy that token and paste it in the axios get method.
 
 Start the project:
 
+```
 npm start
+```
